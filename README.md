@@ -1,2 +1,2 @@
 # Phoebe-Athena
-"HELLO GIT HUB"
+"HELLO GITHUB"
